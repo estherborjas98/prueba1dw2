@@ -1,0 +1,147 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shojumaru&display=swap');
+
+
+#hero{
+	background-image: url("../img/bg-hero.png");
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+	padding-bottom: 5%;
+	
+}
+
+#hero h1{
+	font-family: 'Shojumaru', cursive;
+	padding-top: 20%;
+	text-align: center;
+	color:  #ffac2c;
+	font-size: 50px;
+	
+}
+#hero p{
+	text-align: center;
+	font-family: 'Nanum Pen Script', cursive;
+	color: #FFFFFF;
+	font-size: 30px;
+}
+
+.counter{
+	text-align: center;
+	font-size: 18px;
+	color: #FFFFFF;
+	padding-bottom: 5%;
+}
+.border{
+	border-style: solid;
+	border-radius: 20%;
+	padding: 1%;
+	margin-left: %;
+}
+.btn .btn-light .btn-transparente {
+	align-content: center;
+    text-align: center;
+	background-color:  #ffac2c;
+}
+#offer h2{
+	padding-top: 15%;
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 50px;
+}
+#offer p{
+	
+	font-size: 14px;
+	padding-top: 0px;
+	padding-bottom: 5%
+}
+#offer h3{
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 25px;
+	padding-top: 5%;
+}
+#offer h4{
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 30px;
+	padding-bottom: 5%;
+}
+#offer{
+	padding-bottom: 10%;
+}
+#faq{
+	background-color: #f9fbf3;
+	padding: 10%;
+}
+#faq  h2{
+	
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 50px;
+	color: #000000;
+}
+#faq p{
+	
+	font-size: 14px;
+	padding-top: 0px;
+	color: #000000
+}
+#faq  h3{
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 25px;
+	
+	color: #000000
+	}
+#faq  h4{
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 30px;
+	color: #000000
+}
+.btn {
+	background-color: #000000;
+	color: #FFFFFF
+}
+.btn .btn-transparente {
+	background-color:  #ffac2c;
+	color: #FFFFFF
+}
+.crow{
+	padding-top: 10%;
+}
+
+#service  h2{
+	padding-top: ;
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 50px;
+	color: #000000;
+}
+#service p{
+	
+	font-size: 14px;
+	padding-top: 0px;
+	
+	color: #000000
+}
+#service  h3{
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 25px;
+	
+	color: #000000
+	}
+#service  h4{
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 35px;
+	padding-top: 5%;
+	color: #000000
+}
+#form{
+	padding: 5%;
+	background-color: #f9fbf3;
+}
+#footer{
+	background-color:  #ED8F03;
+	padding: 10%;
+	text-align: center;
+}
+#service{
+	padding: 15%;
+}
